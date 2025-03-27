@@ -1,0 +1,11 @@
+requests
+colorama
+Colorate, Colors
+pystyle
+datetime
+os
+json
+string
+random
+threading
+discord_tools
